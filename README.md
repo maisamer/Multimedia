@@ -1,2 +1,2 @@
 # Multimedia
-This repository for multimedia project
+This repository for vector quantization technique implementation in java programming language
